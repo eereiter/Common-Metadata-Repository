@@ -2,7 +2,7 @@
   "The version of JRuby to use. This is the same as used in the echo orbits java package to prevent
    classpath issues"
   "9.2.6.0")
-
+ 
 (def metadata-preview-info
   "Defines the commit id, version, and repo of cmr_metadata_preview project that we should build the gem off.
    This is our contract with the MMT team in maintaining versioning of the gem without involving
